@@ -1,4 +1,4 @@
-# LoRaWAN Guide
+# Loko
 
 ## Step-by-Step Guide to Connecting Your Gateway and Loko on The Things Network
 
@@ -23,3 +23,13 @@
    - Monitor live data and device location on The Things Network console.
 
 For more detailed instructions, visit the [LoRaWAN guide on nolilab.com](https://nolilab.com/pages/lorawan).
+
+## Firmware Update
+## Configuration
+1. **Loko Air Configuration**: 
+   - Open an account on The Things Network website.
+   - Go to the Console page and select your region.
+
+2. **Loko Ground COnfiguration**:
+   - Follow manufacturer’s documentation to set up your gateway.
+   - Register your gateway on The Things Network.
