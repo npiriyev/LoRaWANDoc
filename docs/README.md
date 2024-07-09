@@ -12,7 +12,7 @@
    ![Loko Device Setup](./imgs/loko1.png)
    _Figure 1: Loko Device Setup_
 
-   ![Gateway Configuration](./imgs/loko2.png ':size=600x600')
+   ![Gateway Configuration](./imgs/loko2.png)
    _Figure 2: Gateway Configuration_
 
 3. **Application Setup**:
