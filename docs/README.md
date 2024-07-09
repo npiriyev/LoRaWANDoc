@@ -9,7 +9,7 @@
 2. **Gateway Setup**:
    - Follow manufacturer’s documentation to set up your gateway.
    - Register your gateway on The Things Network.
-   ![Loko Device Setup](./imgs/loko1.png ':size=600x600')
+   ![Loko Device Setup](./imgs/loko1.png)
    _Figure 1: Loko Device Setup_
 
    ![Gateway Configuration](./imgs/loko2.png ':size=600x600')
